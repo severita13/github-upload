@@ -1,0 +1,2 @@
+i = int()
+print(i)
