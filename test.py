@@ -1,2 +1,0 @@
-i = int()
-print(i)
